@@ -1,0 +1,26 @@
+{
+    "name": "eslint-format-with-full-path",
+    "version": "0.0.1",
+    "description": "modify eslint formatters to output the full file path",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"no tests for this one\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/palortoff/eslint-format-with-full-path.git"
+    },
+    "keywords": [
+        "eslint",
+        "gulp",
+        "formatter",
+        "full",
+        "path"
+    ],
+    "author": "palortoff",
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "lodash": "^3.10.1"
+    }
+}
